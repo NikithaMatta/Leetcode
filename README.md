@@ -2,7 +2,7 @@
 
 Welcome to my LeetCode solution repository! 🎉
 
-I am starting this repository from January 2025 to track my daily progress and mastery of Data Structures and Algorithms (DSA). <br>
+I am starting this repository from January 2026 to track my daily progress and mastery of Data Structures and Algorithms (DSA). <br>
 This repo will contain my solutions to LeetCode problems, organized by topics and difficulty levels.
 
 ## Repository Structure
